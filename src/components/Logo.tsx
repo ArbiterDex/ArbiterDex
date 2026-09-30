@@ -33,7 +33,7 @@ export function Wordmark({ className = "" }: { className?: string }) {
   );
 }
 
-/** Mark + wordmark + the small "Beta" flag used in the navbar. */
+/** Mark + wordmark used in the navbar. */
 export function Logo({ compact = false }: { compact?: boolean }) {
   return (
     <span className="flex items-center gap-2 text-ink">
@@ -41,7 +41,6 @@ export function Logo({ compact = false }: { compact?: boolean }) {
       <span className={compact ? "hidden sm:inline" : ""}>
         <Wordmark />
       </span>
-      <span className="-translate-y-2 rounded-[3px] bg-parchment px-1 py-px text-[9.5px] font-semibold leading-[12px] text-onparch">Beta</span>
     </span>
   );
 }
