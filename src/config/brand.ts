@@ -17,8 +17,8 @@ export const BRAND = {
   tagline: "Unified marketplace for tokenized assets with fair pricing",
   description:
     "Arbiter DEX checks every venue for a tokenized asset, rules on the fairest price against an independent oracle, and settles your order on-chain from your own wallet.",
-  x: "https://x.com/arbiterdex",
-  xHandle: "@arbiterdex",
+  x: "https://x.com/arbiterdexapp",
+  xHandle: "@arbiterdexapp",
   /** Public GitHub repo. Empty hides every GitHub link on the site. */
   github: "https://github.com/ArbiterDex/ArbiterDex" as string,
   ca: CA,

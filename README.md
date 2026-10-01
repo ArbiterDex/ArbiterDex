@@ -2,7 +2,7 @@
 
 **The arbiter of fair trading.** Unified marketplace for tokenized assets with fair pricing, on Robinhood Chain.
 
-Website: [arbiterdex.app](https://arbiterdex.app) · X: [@arbiterdex](https://x.com/arbiterdex) · Token: **$ARBITERDEX**
+Website: [arbiterdex.app](https://arbiterdex.app) · X: [@arbiterdexapp](https://x.com/arbiterdexapp) · Token: **$ARBITERDEX**
 
 ## The problem
 
